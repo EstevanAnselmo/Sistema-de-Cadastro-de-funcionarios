@@ -77,8 +77,20 @@ Você é Assistente de TI.
 
 Projeto em desenvolvimento.
 
-Uma futura versão poderá incluir armazenamento de funcionários e implementação da opção de consulta.
+🚧 Próximas melhorias
 
-## Objetivo
+Algumas funcionalidades que poderão ser implementadas futuramente:
 
-Este projeto faz parte do meu processo de aprendizado em Python e registra minha evolução nos fundamentos da linguagem.
+Armazenar funcionários cadastrados
+Consultar funcionários
+Editar informações
+Excluir funcionários
+Validar melhor os dados informados
+
+🎓 Objetivo
+
+Este projeto foi desenvolvido durante meus estudos em Análise e Desenvolvimento de Sistemas, como forma de praticar lógica de programação e fundamentos da linguagem Python.
+
+🐍 Tecnologia utilizada
+
+Python 3
