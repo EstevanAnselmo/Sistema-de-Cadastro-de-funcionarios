@@ -1,53 +1,53 @@
-# Sistema de Cadastro de Funcionários
+# 👨‍💼 Sistema de Cadastro de Funcionários
 
-Projeto simples desenvolvido em **Python** durante meus estudos na faculdade, com o objetivo de praticar conceitos fundamentais de programação.
+Projeto acadêmico desenvolvido em **Python** com o objetivo de praticar os principais fundamentos da linguagem e a criação de um sistema simples executado pelo terminal.
 
-## Funcionalidades
+---
 
-* Cadastro de funcionário
-* Entrada de nome, idade, setor e cargo
-* Classificação por faixa etária
-* Identificação dos setores de TI e RH
-* Identificação de cargos
-* Menu interativo no terminal
-* Encerramento do sistema pelo usuário
+## 📌 Sobre o projeto
 
-## Conceitos utilizados
+O sistema permite cadastrar informações básicas de um funcionário, como:
 
-Durante o desenvolvimento foram praticados:
+- Nome
+- Idade
+- Setor
+- Cargo
 
-* Funções
-* `if`, `elif` e `else`
-* Estruturas condicionais aninhadas
-* Loop `while`
-* Entrada de dados com `input()`
-* Conversão de tipos
-* F-strings
-* Organização básica de um programa Python
+Após o cadastro, o programa também realiza algumas verificações com base nos dados informados.
 
-## Como executar
+---
 
-É necessário ter o Python instalado.
+## ⚙️ Funcionalidades
 
-Clone o projeto:
+- Cadastro de funcionários
+- Exibição dos dados cadastrados
+- Classificação por faixa etária
+- Identificação do setor do funcionário
+- Identificação do cargo
+- Menu interativo pelo terminal
+- Opção para encerrar o sistema
 
-```bash
-git clone https://github.com/SEU-USUARIO/sistema-cadastro-funcionarios-python.git
-```
+> A funcionalidade de consulta de funcionários ainda está em desenvolvimento.
 
-Entre na pasta:
+---
 
-```bash
-cd sistema-cadastro-funcionarios-python
-```
+## 🧠 Conceitos praticados
 
-Execute:
+Durante o desenvolvimento deste projeto foram utilizados conceitos fundamentais de Python:
 
-```bash
-python main.py
-```
+- Funções
+- Variáveis
+- `input()`
+- Conversão de tipos
+- Estruturas condicionais `if`, `elif` e `else`
+- Condições aninhadas
+- Loop `while`
+- F-strings
+- Organização básica de código
 
-## Exemplo
+---
+
+## 💻 Exemplo de execução
 
 ```text
 ==== SISTEMA DE CADASTRO ===
@@ -58,17 +58,17 @@ python main.py
 
 Escolha a opção: 1
 
-Qual é o seu nome?: João
-Qual é a sua idade?: 25
+Qual é o seu nome?: Estevan
+Qual é a sua idade?: 19
 Qual é o seu setor?: TI
 Qual é o seu cargo?: Assistente
 
-Nome: João
-Idade: 25
+Nome: Estevan
+Idade: 19
 Setor: TI
 Cargo: Assistente
 
-João, você é um adulto.
+Estevan, você é um adulto.
 Você pertence ao setor de Tecnologia.
 Você é Assistente de TI.
 ```
